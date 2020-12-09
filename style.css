@@ -1,0 +1,291 @@
+.mediaViewInfo {
+	--web-view-name: Sharm website;
+	--web-view-id: Sharm_website;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sharm_website;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sharm_website {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sharm website;
+	--web-view-id: Sharm_website;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_5 {
+	position: absolute;
+	width: 1920px;
+	height: 1080.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#file_20200626_33533_13frdsm {
+	opacity: 0.41;
+	position: absolute;
+	width: 1920px;
+	height: 1080.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#hand_drawn_illustrations_socia {
+	opacity: 0.74;
+	position: absolute;
+	width: 1737px;
+	height: 635px;
+	left: 92px;
+	top: 156px;
+	overflow: visible;
+}
+#Group_9 {
+	position: absolute;
+	width: 200px;
+	height: 117px;
+	left: 7px;
+	top: 9px;
+	overflow: visible;
+}
+#sharm_logo {
+	opacity: 0.72;
+	position: absolute;
+	width: 117px;
+	height: 117px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Sharm {
+	position: absolute;
+	left: 85px;
+	top: 0px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(112,112,112,1);
+}
+#YOUR_REMOTE_MARKETING_DEPARTME {
+	position: absolute;
+	left: 592px;
+	top: 833px;
+	overflow: visible;
+	width: 737px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(112,112,112,1);
+}
+#Content_creation__SEO__ad_camp {
+	position: absolute;
+	left: 492px;
+	top: 889px;
+	overflow: visible;
+	width: 937px;
+	height: 96px;
+	text-align: center;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 714px;
+	height: 147px;
+	left: 589px;
+	top: 647px;
+	overflow: visible;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 714px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Book_a_meeting_ {
+	position: absolute;
+	left: 197px;
+	top: 50px;
+	overflow: visible;
+	width: 321px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 108px;
+	height: 49px;
+	left: 988px;
+	top: 77px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sharm Site 2.html;
+	cursor: pointer;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#About_Us {
+	position: absolute;
+	left: 13px;
+	top: 11px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(46,46,47,1);
+}
+#Group_39 {
+	position: absolute;
+	width: 108px;
+	height: 49px;
+	left: 705px;
+	top: 77px;
+	overflow: visible;
+}
+.Rectangle_3_x {
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Home {
+	position: absolute;
+	left: 27px;
+	top: 11px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(46,46,47,1);
+}
+#Group_38 {
+	position: absolute;
+	width: 108px;
+	height: 49px;
+	left: 847px;
+	top: 77px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sharm Site1.html;
+	cursor: pointer;
+}
+.Rectangle_3_ {
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Pricing {
+	position: absolute;
+	left: 24px;
+	top: 11px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(46,46,47,1);
+}
+#Group_11 {
+	position: absolute;
+	width: 221px;
+	height: 51px;
+	left: 1633px;
+	top: 71px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.8;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#Book_a_meeting__ {
+	position: absolute;
+	left: 38px;
+	top: 12px;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(238,238,238,1);
+}
